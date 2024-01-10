@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sepehr-samarzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="sepehr-samarzadeh" /> </p>
 <h1 align="left"> Hello and Welcome👋, I'm Sepehr</h1>
-<h3 align="left">👨‍💻 I'm a CS student and a Junior Developer</h3>
+<h3 align="left">👨‍💻 I'm a CS student</h3>
 <h3 align="left">🤝 I’m looking for open-source projects to contribute</h3>
 <h3 align="left">🤓 I'm a Lifelong learner</h3>
 <h3 align="left">📖 I’m currently learning C and C++</h3>
